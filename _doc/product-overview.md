@@ -1,7 +1,7 @@
-# Tavish's Virtual Vocal Coach — Product Overview
+# VocalRise — Product Overview
 
 ## What It Is
-Tavish's Virtual Vocal Coach is a mobile singing-practice app purpose-built for complete beginners who are learning to sing for musical theatre. It combines guided vocal technique lessons, real-time pitch feedback, and song-specific practice tools — including model vocal audio reference and sheet music support — to take someone from zero experience to stage-ready confidence.
+VocalRise is a mobile singing-practice app purpose-built for complete beginners who are learning to sing for musical theatre. It combines guided vocal technique lessons, real-time pitch feedback, and song-specific practice tools — including model vocal audio reference and sheet music support — to take someone from zero experience to stage-ready confidence.
 
 ## Primary User
 A complete singing beginner (no prior choir, lessons, or performance experience) who is:
