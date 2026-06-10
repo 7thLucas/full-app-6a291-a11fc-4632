@@ -1,60 +1,39 @@
 # VocalRise — Product Overview
 
-## Product Identity
-
-**Name**: VocalRise
-**Tagline**: Find your voice. Sing with confidence.
-**Category**: Music Education / Mobile Learning
-**Platform**: Mobile (iOS & Android)
-
----
-
 ## What It Is
+VocalRise is a mobile singing-practice app purpose-built for complete beginners who are learning to sing for musical theatre. It combines guided vocal technique lessons, real-time pitch feedback, and song-specific practice tools — including model vocal audio reference and sheet music support — to take someone from zero experience to stage-ready confidence.
 
-VocalRise is a personalized singing learning app that guides users from their very first note to confident, expressive performance. Through structured vocal lessons, real-time pitch feedback, and short daily practice routines, VocalRise makes professional-quality singing education accessible to everyone — no expensive lessons, no intimidating studios, no prior experience required.
+## Primary User
+A complete singing beginner (no prior choir, lessons, or performance experience) who is:
+- Enrolled in a **musical theatre course**, receiving assigned song parts (ensemble or solo) accompanied by sheet music or model vocal audio tracks
+- Working toward a **first audition** for a musical — e.g. preparing a 1-minute solo audition piece on a short timeline (as little as two weeks)
+- Potentially an **occasional comedic/improv performer** looking to add singing or musical improv to their live performance skillset
 
----
+## Core Use Cases
+1. **Course assignment practice** — Learn and rehearse specific assigned song parts using the sheet music or model audio reference track provided by the course instructor
+2. **Audition preparation** — Focused, structured preparation of a 1-minute (or longer) solo musical theatre song to audition standard, on a tight timeline
+3. **Vocal foundations** — Build core technique from scratch: breathing, posture, pitch, tone, and range — structured specifically for the complete beginner
+4. **Musical improv readiness** — Develop enough spontaneous singing comfort to incorporate music and musical improv into comedic/improv live performances
 
-## Target Users
+## Key Features
+- **Real-Time Pitch Feedback** — Instant visual pitch accuracy overlay while singing; self-correct in the moment, every session
+- **Guided Vocal Lessons** — Structured curriculum from breathing basics to musical theatre technique, delivered in short daily modules
+- **Daily Vocal Warm-Ups** — Adaptive scales, lip trills, and arpeggios matched to vocal range and current level, updated daily
+- **Musical Theatre Song Practice** — Practice assigned course songs or chosen audition pieces with scrolling lyrics, pitch overlay, model audio reference tracks, and a performance score; covers musical theatre repertoire
+- **Audition Prep Mode** — Set a target song and audition date; receive a focused daily practice plan with timing, dynamics, and expression guidance, plus a readiness score
+- **Personalized Learning Path** — Voice assessment at onboarding builds an adaptive curriculum tuned to vocal type, range, and musical theatre goals
+- **Progress Tracking & Streaks** — Dashboards showing pitch trends, vocal range growth, and daily consistency streaks
 
-| Persona | Description |
-|---|---|
-| **Beginners** | People who have always wanted to sing but don't know where to start. No prior experience; need encouragement, structure, and a confidence-first approach. |
-| **Hobbyists** | Casual singers who want to improve — better pitch, stronger tone, wider range. Sing for fun at home, in the car, or with friends. |
-| **Aspiring Performers** | Motivated singers aiming for open mics, auditions, or social content. Need consistent technique, measurable progress, and repertoire practice. |
+## Brand
+- **Name:** VocalRise
+- **Primary color:** Purple (#6D28D9)
+- **Accent color:** Orange (#EA580C)
+- **Background:** White
+- **Tone:** Encouraging, accessible, zero-judgment; treats every user as a capable performer in the making; celebrates small wins; never intimidating
+- **Tagline:** Find Your Voice.
 
----
-
-## Core Features
-
-1. **Guided Vocal Lessons** — A structured curriculum from beginner fundamentals (breathing, posture, resonance) to advanced technique (belting, vibrato, runs). Bite-sized modules designed for daily practice.
-2. **Real-Time Pitch Detection & Feedback** — The app listens as you sing and provides instant visual and audio feedback on pitch accuracy, helping users self-correct in the moment.
-3. **Vocal Warm-Up Exercises** — Daily warm-up routines (scales, arpeggios, lip trills) adapted to the user's current skill level and vocal range.
-4. **Song Practice Mode** — A guided karaoke-style mode with scrolling lyrics, pitch-guidance overlays, and a performance score so users can practice real songs and track improvement session to session.
-5. **Personalized Learning Path** — An initial voice assessment determines the user's baseline level, vocal type, and goals, then generates a custom curriculum that adapts as progress is made.
-6. **Progress Tracking & Streaks** — Visual dashboards showing pitch accuracy trends, vocal range expansion, lesson completion, and daily streaks to maintain consistent practice habits.
-
----
-
-## Strategic Principles
-
-- **Practice-first**: Every session involves active singing, not passive watching. Learning by doing is the core loop.
-- **Confidence-first feedback**: Positive reinforcement and incremental challenges keep users motivated. Encouraging coaching cues — never harsh grading.
-- **Accessibility**: Works without any equipment beyond a smartphone microphone. No sheet music literacy required.
-- **Consistency over intensity**: Optimized for 5–10 minute daily sessions rather than long infrequent ones, mirroring how vocal skill actually develops.
-
----
-
-## Brand & Tone
-
-- **Voice**: Warm, encouraging, expert-but-approachable. Like a great vocal coach who believes in you from day one.
-- **Aesthetic**: Clean, vibrant, musical. Purple/violet primary (creativity, artistry) with warm orange/coral accents (energy, passion). Airy layouts, bold display type.
-- **Positioning**: The singing app that makes you feel capable from day one — not just a tool, but a coach and practice partner.
-
----
+## Positioning
+Musical-theatre-first singing practice app for complete beginners. Not a generic vocal workout or karaoke app — purpose-built for someone learning to sing for the stage, with course assignments, near-term audition goals, and comedic performance contexts firmly in scope. Accessible through a smartphone; no external gear required.
 
 ## Scope
-
-**MVP includes**: onboarding voice assessment, guided lesson library (beginner tier), real-time pitch detection & feedback, vocal warm-up exercises, song practice mode, and progress dashboard with streaks.
-
-**Post-MVP**: intermediate and advanced lesson tiers, social sharing of recorded performances, live sessions with vocal coaches, duet mode, and AI-generated personalized vocal exercises.
+Single-user personal practice tool. Not a group lesson platform or live coaching service.
