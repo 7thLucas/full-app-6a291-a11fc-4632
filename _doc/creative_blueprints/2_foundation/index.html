@@ -1,0 +1,75 @@
+<style>
+.mode-landscape .sl-main   { flex-direction: row; }
+.mode-portrait  .sl-main   { flex-direction: column; }
+.mode-landscape .sl-left   { width: 58%; }
+.mode-landscape .sl-visual { width: 42%; }
+.mode-portrait  .sl-left   { width: 100%; }
+.mode-portrait  .sl-visual { height: 36%; flex-shrink: 0; }
+.mode-landscape .sl-cards  { flex-direction: row; }
+.mode-portrait  .sl-cards  { flex-direction: column; }
+</style>
+
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="flex flex-col h-full p-12">
+
+    <!-- Header -->
+    <div class="mb-6 flex-shrink-0">
+      <span class="text-purple-600 text-xs font-bold uppercase tracking-widest">The Big Picture</span>
+      <h2 class="text-slate-900 font-black text-3xl leading-tight mt-1">Why VocalRise Exists</h2>
+    </div>
+
+    <!-- Main split -->
+    <div class="sl-main flex flex-1 gap-5 overflow-hidden">
+
+      <!-- Left: Problem + Solution cards -->
+      <div class="sl-left flex flex-col">
+        <div class="sl-cards flex gap-4 flex-1">
+
+          <!-- Problem -->
+          <div class="flex-1 bg-slate-900 rounded-2xl p-6 flex flex-col">
+            <div class="flex items-center gap-2 mb-3">
+              <div class="w-6 h-6 rounded-full bg-orange-500 flex items-center justify-center flex-shrink-0">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="white">
+                  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/>
+                </svg>
+              </div>
+              <span class="text-orange-400 text-xs font-bold uppercase tracking-widest">The Problem</span>
+            </div>
+            <h3 class="text-white font-bold text-base leading-tight mb-2">Singing feels out of reach</h3>
+            <p class="text-slate-300 text-xs leading-relaxed">
+              Traditional vocal lessons are expensive, scheduling is rigid, and studios feel intimidating. Most people who want to sing never start — not because they lack talent, but because there's no accessible path in.
+            </p>
+          </div>
+
+          <!-- Solution -->
+          <div class="flex-1 bg-purple-700 rounded-2xl p-6 flex flex-col">
+            <div class="flex items-center gap-2 mb-3">
+              <div class="w-6 h-6 rounded-full bg-white flex items-center justify-center flex-shrink-0">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="#7C3AED">
+                  <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/>
+                </svg>
+              </div>
+              <span class="text-purple-200 text-xs font-bold uppercase tracking-widest">The Solution</span>
+            </div>
+            <h3 class="text-white font-bold text-base leading-tight mb-2">Your voice coach, in your pocket</h3>
+            <p class="text-purple-100 text-xs leading-relaxed">
+              VocalRise brings real vocal coaching to your smartphone — guided lessons, instant pitch feedback, and 5–10 minute daily sessions that fit any schedule. Start singing today, improve every day.
+            </p>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Right: Visual -->
+      <div class="sl-visual relative overflow-hidden rounded-2xl flex-shrink-0">
+        <img
+          src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=person+relaxed+at+home+singing+along+to+phone+app+warm+cozy+interior+soft+window+light+confident+happy"
+          class="w-full h-full object-cover"
+          alt="Person singing confidently at home"
+        />
+      </div>
+
+    </div>
+
+  </div>
+</section>
