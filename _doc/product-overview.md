@@ -1,7 +1,7 @@
-# Tavish's Virtual Vocal Coach — Product Overview
+# VocalRise — Product Overview
 
 ## What It Is
-Tavish's Virtual Vocal Coach is a mobile singing-practice app purpose-built for complete beginners who are learning to sing for musical theatre. It combines guided vocal technique lessons, real-time pitch feedback, and song-specific practice tools — including model vocal audio reference and sheet music support — to take someone from zero experience to stage-ready confidence.
+VocalRise is a mobile singing-practice app purpose-built for complete beginners who are learning to sing for musical theatre. It combines guided vocal technique lessons, real-time pitch feedback, and song-specific practice tools — including model vocal audio reference and sheet music support — to take someone from zero experience to stage-ready confidence.
 
 ## Primary User
 A complete singing beginner (no prior choir, lessons, or performance experience) who is:
@@ -25,12 +25,12 @@ A complete singing beginner (no prior choir, lessons, or performance experience)
 - **Progress Tracking & Streaks** — Dashboards showing pitch trends, vocal range growth, and daily consistency streaks
 
 ## Brand
-- **Name:** Tavish's Virtual Vocal Coach
-- **Primary color:** Purple (#6D28D9)
-- **Accent color:** Orange (#EA580C)
+- **Name:** VocalRise
+- **Primary color:** Purple (#7C3AED / Tailwind `purple-700`)
+- **Accent color:** Orange (#EA580C / Tailwind `orange-500`)
 - **Background:** White
 - **Tone:** Encouraging, accessible, zero-judgment; treats every user as a capable performer in the making; celebrates small wins; never intimidating
-- **Tagline:** Find Your Voice.
+- **Tagline:** Find Your Voice. Sing with Confidence.
 
 ## Positioning
 Musical-theatre-first singing practice app for complete beginners. Not a generic vocal workout or karaoke app — purpose-built for someone learning to sing for the stage, with course assignments, near-term audition goals, and comedic performance contexts firmly in scope. Accessible through a smartphone; no external gear required.
