@@ -25,7 +25,7 @@ A complete singing beginner (no prior choir, lessons, or performance experience)
 - **Progress Tracking & Streaks** — Dashboards showing pitch trends, vocal range growth, and daily consistency streaks
 
 ## Brand
-- **Name:** VocalRise
+- **Name:** Tavish's Virtual Vocal Coach
 - **Primary color:** Purple (#6D28D9)
 - **Accent color:** Orange (#EA580C)
 - **Background:** White
